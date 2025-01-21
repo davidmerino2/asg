@@ -1,6 +1,6 @@
 from asg.entities import *
 from typing import List
-from bentley_ottmann.planar import segments_intersections
+from bentley_ottmann.planar import segments_intersect
 import numpy as np
 import itertools
 
